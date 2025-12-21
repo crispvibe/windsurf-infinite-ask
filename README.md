@@ -34,7 +34,7 @@
 
 ### 方法 2: 源码编译
 ```bash
-git clone https://github.com/your-username/windsurf-clean-infinite-ask.git
+git clone https://github.com/crispvibe/windsurf-clean-infinite-ask.git
 cd windsurf-clean-infinite-ask
 npm install
 npm run compile
